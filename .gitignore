@@ -1,3 +1,7 @@
 /output/
 .idea/
 /auto_patch.patch
+/ur_keys.db
+/urls.sql
+.DS_Store
+*.pyc
